@@ -1,0 +1,2 @@
+# Efficient-Authentication-for-Mobile-and-Pervasive-Computing
+This project developed lightweight authentication mechanisms for mobile devices, enhancing security while minimizing resource use. Utilizing machine learning and biometrics, we designed context-aware algorithms that improved accuracy and user experience. The framework addresses critical security challenges in pervasive computing environments.
